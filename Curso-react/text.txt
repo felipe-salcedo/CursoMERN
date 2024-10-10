@@ -1,0 +1,3 @@
+quando puxar o projeto do github
+
+npm install
